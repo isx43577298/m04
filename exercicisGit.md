@@ -142,13 +142,13 @@ git cherry-pick c5 c4 c3 c2
 git branch -f three c2
 
 __Nivell 1 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote1.png?raw=true)
 __Resposta__  
 >git clone
 
 
 __Nivell 2 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote2.png?raw=true)
 __Resposta__  
 >git commit  
 git checkout o/master  
@@ -157,20 +157,20 @@ git commit
 
 
 __Nivell 3 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote3.png?raw=true)
 __Resposta__  
 >git fetch
 
 
 
 __Nivell 4 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote4.png?raw=true)
 __Resposta__  
 >git pull
 
 
 __Nivell 5 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote5.png?raw=true)
 __Resposta__  
 > git commit  
 git commit  
@@ -182,7 +182,7 @@ Solucio web: git clone; git fakeTeamwork 2; git commit; git pull
 
 
 __Nivell 6 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote6.png?raw=true)
 __Resposta__  
 >git commit  
 git commit  
@@ -190,7 +190,7 @@ git push
 
 
 __Nivell 7 clone__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/remote7.png?raw=true)
 __Resposta__  
 >$ git fetch  
 git rebase o/master side1  
