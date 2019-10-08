@@ -120,7 +120,7 @@ __Resposta__
 > git commit  
 
 __Nivell 1 advanced__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/nivell1_fase5.png?raw=true)
 __Resposta__  
 > git rebase master bugFix  
 git rebase bugFix side  
@@ -128,12 +128,12 @@ git rebase side another
 git rebase another master  
 
 __Nivell 2 advanced__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/nivell2_fase5.png?raw=true)
 __Resposta__  
 > git branch bugWork HEAD~^2^1
 
 __Nivell 3 advanced__  
-
+![advanced](https://github.com/isx43577298/m04/blob/master/nivell3_fase5.png?raw=true)
 __Resposta__  
 >git checkout one  
 git cherry-pick c4 c3 c2  
@@ -197,42 +197,3 @@ git rebase o/master side1
 git rebase side1 side2  
 git rebase side2 side3  
 git rebase side3 master
-
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
-
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
-
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
-
-
-__Nivell 1 clone__  
-
-__Resposta__  
->
